@@ -6,9 +6,23 @@
 	"companyEmail": "lea@verou.me",
 	"invoice": [
 		{
-			"id": "1",
+			"id": "502",
+			"date": "2017-08-22",
+			"recipient": {
+				"name": "Crazy Cat Tee Shirts",
+				"address": "Litter Box Lane\nSmelly Sands NJ"
+			},
 			"currency": "$",
-			"services": []
+			"services": [
+				{
+					"description": "Logo Design",
+					"amount": "200.00"
+				},
+				{
+					"description": "Website Design",
+					"amount": "5000"
+				}
+			]
 		},
 		{
 			"id": "2",
